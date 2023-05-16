@@ -60,6 +60,8 @@ def plot():
 
 plot()
 
+
+
 e = st.number_input("Enter Economic Growth Rate")
 st.text(" ")
 u = st.number_input("Enter Unemployment Rate")
